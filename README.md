@@ -1,5 +1,5 @@
 # ProjectMusicInformatics
-Project for Musinc Informatics course
+Project for the Music Informatics course
 
 # Intentions
 
