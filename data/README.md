@@ -1,6 +1,6 @@
 ## /data/
 
-This folder information regarding the emotify dataset.
+This folder consists on information and samples of the emotify dataset.
 
 - ***emotifymusic/*** contains the song samples, contained in a folder with their respective label (*classical*, *electronic*, *pop**, *rock*).
 - ***info/*** contains useful information of the song samples, retrieved from the .mp3 files: duration, sample rate, ...
