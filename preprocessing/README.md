@@ -12,6 +12,7 @@ This folder consists on notebooks for extracting the labels from the annotations
 - ***extract_SimpleFeatures*** extracts simple features. The results are saved at ***SimpleFeatures***
 - ***extract_STFT*** extracts the Short-time Fourier transform of the audio samples. 
 
+The folders SimpleFeatures and MusicnnFeatures contain the simple features (extracted zero crossings, spectral centroid, spectral variance, static tempo estimate) and extracted musicnn features respectivey. Data files of too large size are not uploaded.
 
 ### Information
 
