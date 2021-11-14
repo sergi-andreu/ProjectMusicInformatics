@@ -19,4 +19,5 @@ This repository contains preprocessing on the Emotify dataset, as well as a set 
 - ***/literature/*** relevant references for this work.
 - ***/preprocessing/*** notebooks for extracting the labels from the annotations, as well as features from the audio samples. These are used for training the models.
 - ***/presentation/*** Overwiew of the project, used in the final presentation of the course.
- 
+- ***/report.pdf*** Final report.
+
