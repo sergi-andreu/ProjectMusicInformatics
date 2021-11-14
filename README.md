@@ -7,7 +7,7 @@ Done by Carsten van de Kamp and Sergi Andreu.
 # Intentions
 
 Music is a powerful and common tool for mood regulation, but it is hard to predict the induced emotion for a musical piece. 
-We explore this problem with the Emotify dataset, which contains 400 songs from four different genres, annotated on the Geneva Emotional Music scale.
+We explore this problem with the Emotify dataset, which contains 400 songs from four different genres, annotated on the Geneva Emotional Music scale.
 
 This repository contains preprocessing on the Emotify dataset, as well as a set of notebooks trained on the preprocessed data for both genre and emotion prediction, using different approaches.
 
